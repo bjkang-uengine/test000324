@@ -10,4 +10,5 @@ import test.infra.AbstractEvent;
 public class Aaa extends AbstractEvent {
 
     private Long id;
+    private String name;
 }
